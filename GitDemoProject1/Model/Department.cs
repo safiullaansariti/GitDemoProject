@@ -8,6 +8,9 @@ namespace GitDemoProject1.Model
     public class Department
     {
         public int ID { get; set; }
+
         public string Name { get; set; }
+
+        public string StartYear { get; set; }
     }
 }
