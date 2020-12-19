@@ -55,3 +55,4 @@ D:\PracticeProjects\GitDemoProject1\GitDemoProject1\obj\Debug\GitDemoProject1.cs
 D:\PracticeProjects\GitDemoProject1\GitDemoProject1\obj\Debug\GitDemoProject1.csproj.CopyComplete
 D:\PracticeProjects\GitDemoProject1\GitDemoProject1\obj\Debug\GitDemoProject1.dll
 D:\PracticeProjects\GitDemoProject1\GitDemoProject1\obj\Debug\GitDemoProject1.pdb
+D:\PracticeProjects\GitDemoProject1\GitDemoProject1\obj\Debug\GitDemoProject1.csprojResolveAssemblyReference.cache

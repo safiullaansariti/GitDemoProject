@@ -7,5 +7,6 @@ namespace GitDemoProject1.Model
 {
     public class Employee
     {
+        public int ID { get; set; }
     }
 }
