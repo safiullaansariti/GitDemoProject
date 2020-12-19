@@ -14,5 +14,9 @@ namespace GitDemoProject1.Model
         public string Address { get; set; }
 
         public string PhoneNo { get; set; }
+
+        public string MobileNo { get; set; }
+         
+        public bool RememberMe { get; set; }
     }
 }
