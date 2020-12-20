@@ -14,5 +14,7 @@ namespace GitDemoProject1.Model
         public string StartYear { get; set; }
 
         public string EndYear { get; set; }
+
+        public string JoiningDate { get; set; }
     }
 }
